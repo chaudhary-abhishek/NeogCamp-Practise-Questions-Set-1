@@ -25,4 +25,4 @@ const checkForAlphabetA = (text)=>{
     else
     return `Does not includes a`;
 }
-console.log(checkForAlphabetA("Abhishek"));
+console.log(checkForAlphabetA("bhishek"));
